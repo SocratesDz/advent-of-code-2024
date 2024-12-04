@@ -1,0 +1,13 @@
+### zig ###
+# Zig programming language
+
+.zig-cache/
+zig-out/
+/release/
+/debug/
+/build/
+/build-*/
+/docgen_tmp/
+
+# Direnv
+.direnv/
